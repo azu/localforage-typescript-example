@@ -1,6 +1,6 @@
 # localforage-typescript-example
 
-[localForage](https://github.com/localForage/localForage) and [@kvs/env](https://github.com/azu/kvs) example on TypeScript
+[localForage](https://github.com/localForage/localForage) and [@kvs/env](https://github.com/azu/kvs) examples on TypeScript
 
 [localForage](https://github.com/localForage/localForage): generics key
 
